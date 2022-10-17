@@ -176,7 +176,7 @@ class Ui_MainWindow(object):
         MainWindow.setMenuBar(self.menubar)
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
-        self.label_5.setText("<a style='text-decoration: none; color: white;' href='https://github.com/blackcatprog/cli-vk-cleaner'>REED</a>")
+        self.label_5.setText("<a style='text-decoration: none; color: white;' href='https://github.com/blackcatprog/reed'>REED</a>")
         self.label_5.setOpenExternalLinks(True)
 
         # buttons bind
