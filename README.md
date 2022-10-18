@@ -2,5 +2,7 @@
 <h2 align="center"><b>REED</b></h2>
 <h4 align="center">Windows customization through the registry</h4>
 
+Run with command ```python reed.py```
+
 ## Screenshots:
-<img src="https://github.com/blackcatprog/reed/blob/main/screenshot.png" width="600">
+<img src="https://github.com/blackcatprog/reed/blob/main/screenshot.png" width="500">
